@@ -1,5 +1,5 @@
 
-<form action="/recipes" method="POST" >
+<form action="/recipes" method="POST">
 
   <label for="name">Name</label>
   <input type="text" id="name" name="name" />
